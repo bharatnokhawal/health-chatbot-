@@ -1,0 +1,6 @@
+openai 
+google-search-results
+gradio
+python-dotenv
+streamlit
+flask 
